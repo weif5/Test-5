@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base path %}
-
 Feel free to check out my [CV](https://weif5.github.io/Test-5/files/Fang_Wei_Resume_Final.pdf)
 
 Education
