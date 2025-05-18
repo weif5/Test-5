@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## 👋 Hi, I’m Wei Fang
 
-I'm currently a Math and Economics double major at the University of Washington.  
+I'm currently majoring Math BA and Economics BS double degree and minoring in DS and AMATH at the University of Washington (2021 - 2025). 
 I’m passionate about:
 
 - Quantitative finance 📊
